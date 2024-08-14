@@ -1,0 +1,54 @@
+  .navbar-brand{
+    font-weight: 1000;
+   
+  }
+  img{
+   height:300px ;
+   width: 300px;
+   
+  }
+ 
+  .container{
+   margin: auto;
+   width: 80%;
+  }
+.navbar h1{
+   display: flex;
+   margin-left: 10px;
+}
+#designer{
+   box-shadow: 10px ;
+   padding: 5px;
+  border-style: hidden;
+}
+#search{
+   border-style: hidden;
+   padding: px;
+}
+#btn{
+       box-shadow: 10px;
+      border-style: hidden;
+     background-color:white;
+      padding: 5px;
+      margin-right: 5px;
+}
+.fa-bookmark,.fa-heart{
+   margin-left: 50px;
+  
+    
+}
+.fa-bookmark,.fa-heart:hover{
+   color: red;
+  
+  
+   
+}
+
+
+p:hover{
+   display: flex;
+   justify-content: center;
+   color: white;
+   background-color:black;
+   font-weight: bold;
+}
